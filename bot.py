@@ -11,6 +11,7 @@ from telegram.ext import (
     filters,
 )
 
+
 # Настройка логгирования
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
